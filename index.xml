@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Troye Gilbert</title>
+    <link>https://3headedsnake.github.io/troyegilbert_portfolio/</link>
+    <description>Recent content on Troye Gilbert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://3headedsnake.github.io/troyegilbert_portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2: Clothing Classifier</title>
+      <link>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-2/</link>
+      <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-2/</guid>
+      <description>The aim of this model is to identify images of various clothes using the Fashion MNIST dataset.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Fuel Efficiency Estimator</title>
+      <link>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-1/</link>
+      <pubDate>Sat, 04 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-1/</guid>
+      <description>*This model focuses on predicting the efficiency of various cars in the early 1970s using the Auto MPG dataset.
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 4: TedTalks Analysis</title>
+      <link>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-4/</guid>
+      <description>This model tries to predict the talk with the most ratings and audience
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Sentiment Analysis</title>
+      <link>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://3headedsnake.github.io/troyegilbert_portfolio/post/project-3/</guid>
+      <description>This model helps to classify movie reviews as positive or negative based on the text of the review. We will use th Large Movie Review Dataset containing 50,000 movies from the Internet Movie Dataset
+  Link to GitHub Repository</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://3headedsnake.github.io/troyegilbert_portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://3headedsnake.github.io/troyegilbert_portfolio/contact/</guid>
+      <description>Follow Me!
+   Platform URL     Twitter: https://twitter.com/troyegilbert    Github: | https://github.com/3HeadedSnake
+LinkedIn: | https://www.linkedin.com/in/troye-gilbert-94663a1a7/
+Facebook: | https://web.facebook.com/troyegibert
+Medium: | https://medium.com/@gilberttroye</description>
+    </item>
+    
+  </channel>
+</rss>
